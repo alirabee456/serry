@@ -1,4 +1,6 @@
-pandas
-plotly
-numpy
 streamlit
+plotly
+pytz
+pandas
+pyodbc
+openpyxl
